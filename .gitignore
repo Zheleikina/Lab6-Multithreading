@@ -1,0 +1,33 @@
+# Visual Studio / MSBuild
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+Debug/
+Release/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake-install.cmake
+CMakeDetermineCompilerABI.cmake
+CMakeTestCompiler.cmake
+Makefile
+*.cmake
+out/
+build/
+
+# Compiled Object files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# OS generated files
+.DS_Store
+Thumbs.db
