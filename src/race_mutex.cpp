@@ -4,7 +4,7 @@
 #include <mutex>
 #include <chrono>
 
-constexpr int STUDENT_NUMBER = 1;                  // <-- ВСТАВТЕ СВІЙ НОМЕР ЗА СПИСКОМ
+constexpr int STUDENT_NUMBER = 3;
 constexpr int ITERATIONS = STUDENT_NUMBER * 100000;
 constexpr int RUNS = 5;
 

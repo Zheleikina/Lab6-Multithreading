@@ -1,5 +1,5 @@
 // Частина 2.2: відтворення дедлоку. ЗАВИСАННЯ -- ОЧІКУВАНИЙ РЕЗУЛЬТАТ.
-// Потрібен C++20 (std::barrier). Зупиніть програму вручну (Shift+F5 / Ctrl+C).
+// C++20 (std::barrier). Зупинити програму вручну (Shift+F5 / Ctrl+C).
 #include <iostream>
 #include <thread>
 #include <mutex>
